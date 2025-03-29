@@ -1,9 +1,9 @@
-# 📘 IA y análisis de datos para administración y negocios
+# IA y análisis de datos para administración y negocios
 
-## 📌 Introducción
+## Introducción
 Este repositorio contiene los proyectos desarrollados a través de distintos módulos, donde se aplican modelos de inteligencia artificial y técnicas avanzadas de análisis de datos para la toma de decisiones estratégicas en entornos empresariales.
 
-## 🚀 Invitación
+## Invitación
 Si estás interesado en aprender a integrar **IA y análisis de datos** en la gestión empresarial, este repositorio te proporcionará recursos prácticos, proyectos aplicados y herramientas clave para potenciar tu desarrollo profesional en este campo.
 
 ## 📑 Proyectos 
